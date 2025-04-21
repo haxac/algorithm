@@ -2,5 +2,6 @@
 Learning algorithms with Ruby
 
 ## usage
-bundle install
-bundle exec rspec
+`bundle install`
+
+`bundle exec rspec`
